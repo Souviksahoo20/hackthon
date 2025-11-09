@@ -142,7 +142,7 @@ A huge thanks to all contributors who made DevMatchups possible:
 
 ## 📝 License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [SNU License](LICENSE).
 
 ```
 Built with ☕️, 💻, and plenty of caffeine.
